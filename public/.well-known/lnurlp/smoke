@@ -1,11 +1,11 @@
 {
-  "status": "OK",
-  "callback": "https://livingroomofsatoshi.com/api/v1/lnurl/payreq/88b0850b-5861-4c34-8139-882e7b2f24c2",
-  "maxSendable": 100000000000,
+  "callback": "https://rizful.com/lnurl_two/smoke/get_invoice",
   "minSendable": 1000,
-  "metadata": "[[\"text/plain\",\"Sats for Purple Smoke\"],[\"text/identifier\",\"smoke@stoned420.fun\"]]",
-  "commentAllowed": 255,
+  "maxSendable": 10000000000,
+  "status": "OK",
   "tag": "payRequest",
+  "metadata": "[[\"text/plain\",\"Pay Purple Smoke\"],[\"text/identifier\",\"smoke@stoned420.fun\"]]",
   "allowsNostr": true,
-  "nostrPubkey": "b64f16f704e78fd7d088be2f2745913d328bb8004266ac35182d23676778874c"
+  "nostrPubkey": "b64f16f704e78fd7d088be2f2745913d328bb8004266ac35182d23676778874c",
+  "commentAllowed": 224
 }
